@@ -7,3 +7,4 @@ TODO:
 - Kafka
 - Azure things
 - Rabbitmq
+- Spotify API
