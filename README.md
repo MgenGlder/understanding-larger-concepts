@@ -6,3 +6,4 @@ TODO:
 - Redis
 - Kafka
 - Azure things
+- Rabbitmq
