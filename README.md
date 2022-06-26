@@ -7,4 +7,8 @@ TODO:
 - Kafka
 - Azure things
 - Rabbitmq
-- Spotify API
+- Spotify
+    - https://developer.spotify.com/documentation/web-api/reference/#/operations/get-new-releases
+    - https://developer.spotify.com/documentation/web-api/reference/#/operations/get-an-artists-albums
+- Message Queues
+- New updates in developer tools
