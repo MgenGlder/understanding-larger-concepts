@@ -8,6 +8,8 @@ TODO:
 - Consul
 - Nomad
 - Docker
+- Mocha
+- Chai
 - Sidecar and other design patterns
 - Kafka
 - Azure things
